@@ -1,4 +1,4 @@
-# Step 1: Import libraries
+# Step 1:Import libraries
 from google.colab import files
 uploaded = files.upload()
 import pandas as pd
